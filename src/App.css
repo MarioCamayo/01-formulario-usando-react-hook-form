@@ -1,0 +1,23 @@
+body{
+  background-color: #202020;
+  color: #fff;
+  display: flex;
+  justify-content: center ;
+  align-items: center;
+
+}
+label{
+  display: block;
+}
+
+select, input{
+  width: 100%;
+}
+span{
+  font-size: small;
+  display: block;
+  color: tomato;
+}
+h1{
+  text-align: center;
+}
